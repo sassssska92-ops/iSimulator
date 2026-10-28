@@ -1,0 +1,2 @@
+# iSimulator
+iosemuator
